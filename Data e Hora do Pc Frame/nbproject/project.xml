@@ -3,7 +3,7 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
-            <name>Data e Hora do Sistema Jframe</name>
+            <name>Data e Hora do Pc Frame</name>
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
